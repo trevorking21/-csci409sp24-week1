@@ -1,5 +1,5 @@
-CSCI 409- Advanced Web Application Development
-Trevor King
+Level 1 Heading: CSCI 409- Advanced Web Application Development
+Level 2 Heading: gTrevor King
 
 Course Description:
 Advanced topics in the development and deployment of web-based applications. 
